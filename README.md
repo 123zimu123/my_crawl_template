@@ -4,3 +4,4 @@ record my own crawl template
 1未使用scrapy 多线程 mongodb的模板
 2scrapy模板
 3scrapy crawl 模板
+4打码平台使用（无selenium）
