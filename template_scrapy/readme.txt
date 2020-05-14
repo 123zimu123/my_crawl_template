@@ -1,0 +1,1 @@
+这是一个使用scrapy mongodb的模板
